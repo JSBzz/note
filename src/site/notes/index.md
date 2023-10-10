@@ -3,5 +3,5 @@
 ---
 
 
-
-안녕하세요sadasdsa
+my digital garden
+[[Language/JAVA/JAVA\|JAVA]]
