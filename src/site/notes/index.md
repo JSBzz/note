@@ -3,5 +3,4 @@
 ---
 
 
-my digital garden
-[[Language/JAVA/JAVA\|JAVA]]
+---
